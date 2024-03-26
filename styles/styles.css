@@ -148,7 +148,7 @@ footer {
 @media only screen and (max-width: 426px) {
     .social-links-container {
         width: 90vw;
-        margin-inline: 25px;
+        /* margin-inline: 25px; */
     }
     
     .button {
